@@ -1,6 +1,6 @@
 # Hey there!
 I'm Richard Milton, but also known more universally as RandomParable.
-======
+------
 *I do visual stuff, which I mostly call mistakes.*
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 With coding tools, it's may be the simplest setup ever, but it suffices for me.
